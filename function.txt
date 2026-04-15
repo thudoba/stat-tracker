@@ -1,8 +1,5 @@
 This is a representation of an unfinished function a group member is working on.
-This is a new change from Tim Hudoba.
-
-This is a representation of an unfinished function a group memeber is working on.
-This is a new change from Jade Hoey.
-
-This is a representation of an unfinished function a group member is working on.
 This is a new change from Arren Meuchel
+This is the changes made to this branch while you were working on rb test.
+This is a new change from Tim Hudoba.
+This is a new change from Jade Hoey. 
